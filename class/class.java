@@ -1,1 +1,1 @@
- git revert HEAD --no-edit kfkfkfsksk
+ git revert HEAD --no-edit kfk
